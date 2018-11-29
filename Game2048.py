@@ -145,11 +145,6 @@ if __name__ == "__main__":
         print("Game Over!")
         restart = 'q'
         restart = input("If you wanna play again, Please input 'R' or else quit : ")
-    # game = Game2048(3)
-    # game.square[1][1] = 2
-    # game.square[2][1] = 2
-    # game.square = game.down_move()
-    # print(game)
 
     exit(code=0)
 
